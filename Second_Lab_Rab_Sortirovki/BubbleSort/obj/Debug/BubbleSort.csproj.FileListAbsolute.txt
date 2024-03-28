@@ -1,0 +1,7 @@
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\BubbleSort\obj\Debug\BubbleSort.pdb

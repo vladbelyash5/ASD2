@@ -1,0 +1,7 @@
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\Second_Lab_Rab_Sortirovki\bin\Debug\Second_Lab_Rab_Sortirovki.exe.config
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\Second_Lab_Rab_Sortirovki\bin\Debug\Second_Lab_Rab_Sortirovki.exe
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\Second_Lab_Rab_Sortirovki\bin\Debug\Second_Lab_Rab_Sortirovki.pdb
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\Second_Lab_Rab_Sortirovki\obj\Debug\Second_Lab_Rab_Sortirovki.csproj.AssemblyReference.cache
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\Second_Lab_Rab_Sortirovki\obj\Debug\Second_Lab_Rab_Sortirovki.csproj.CoreCompileInputs.cache
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\Second_Lab_Rab_Sortirovki\obj\Debug\Second_Lab_Rab_Sortirovki.exe
+C:\Users\VladB\source\repos\Second_Lab_Rab_Sortirovki\Second_Lab_Rab_Sortirovki\obj\Debug\Second_Lab_Rab_Sortirovki.pdb
